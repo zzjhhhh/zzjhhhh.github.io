@@ -12,19 +12,14 @@
     
     
     <item>
-      <title>如何使用hugo搭建个人博客</title>
-      <link>http://localhost:1313/posts/my-2nd-post/</link>
+      <title>如何使用hugo搭建个人博客(mac os)</title>
+      <link>http://localhost:1313/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Tue, 14 Jan 2020 14:05:25 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/my-2nd-post/</guid>
-      <description>如何使用hugo搭建个人博客 (mac os) 第一步：安装hugo
- brew install hugo hugo version 第二步：创建新站点
- hugo new site username@github.io 第三步：添加主题
- 下载主题并添加到theme文件夹   cd username@github.io git init git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke echo &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.toml  设置主题   echo &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.toml 第四步：创建博客
- hugo new posts/my-first-post.md 新博客包含如下信息：
---- title: &amp;quot;My First Post&amp;quot; date: 2019-03-26T08:47:11+01:00 draft: true --- 第五步：开启hugo服务器
- hugo server -D 第六步：自定义主题
-打开config.toml文件, 可修改语言，标题和主题。</description>
+      <guid>http://localhost:1313/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>第一步：安装hugo  brew install hugo hugo version 第二步：创建新站点  hugo new site username@github.io 第三步：添加主题  下载主题并添加到theme文件夹   cd username@github.io git init git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke echo &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.toml  设置主题   echo &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.toml 第四步：创建博客  hugo new posts/my-first-post.md 新博客包含如下信息：
+--- title: &amp;quot;My First Post&amp;quot; date: 2019-03-26T08:47:11+01:00 draft: true --- 第五步：开启hugo服务器  hugo server -D 第六步：自定义主题 打开config.toml文件, 可修改语言，标题和主题。
+ baseURL = &amp;quot;https://example.</description>
     </item>
     
     <item>
