@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2020-01-14T14:05:25+00:00</lastmod>
+    <loc>http://localhost:1313/test/</loc>
+    <lastmod>2020-01-14T21:22:22+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2020-01-14T21:22:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2020-01-14T14:05:25+00:00</lastmod>
   </url>
   
