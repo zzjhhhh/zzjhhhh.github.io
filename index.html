@@ -122,11 +122,18 @@
       <div class="blah w-100">
         <h1 class="f3 fw1 athelas mt0 lh-title">
           <a href="http://localhost:1313/posts/my-2nd-post/" class="color-inherit dim link">
-            My 2nd Post
+            如何使用hugo搭建个人博客
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          第二篇博客 
+          如何使用hugo搭建个人博客 (mac os) 第一步：安装hugo
+ brew install hugo hugo version 第二步：创建新站点
+ hugo new site username@github.io 第三步：添加主题
+ 下载主题并添加到theme文件夹   cd username@github.io git init git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke echo 'theme = &quot;ananke&quot;' &gt;&gt; config.toml  设置主题   echo 'theme = &quot;ananke&quot;' &gt;&gt; config.toml 第四步：创建博客
+ hugo new posts/my-first-post.md 新博客包含如下信息：
+--- title: &quot;My First Post&quot; date: 2019-03-26T08:47:11+01:00 draft: true --- 第五步：开启hugo服务器
+ hugo server -D 第六步：自定义主题
+打开config.toml文件, 可修改语言，标题和主题。
         </div>
           <a href="http://localhost:1313/posts/my-2nd-post/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
         
