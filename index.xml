@@ -17,7 +17,9 @@
       <pubDate>Wed, 15 Jan 2020 19:39:46 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B01/</guid>
-      <description>HTML的诞生 HTML起手式 常用章节标签 全局属性 内容标签 </description>
+      <description>HTML 的诞生 Tim Berners-Lee 李爵士在 1990 年发明了 HTML (HyperText Markup Language)，WWW, HTTP 和 URL
+HTML 起手式 ! + tab在 vscode 中自动生成
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1.0&amp;quot;&amp;gt; &amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;ie=edge&amp;quot;&amp;gt; &amp;lt;title&amp;gt;Document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  DOCTYPE - 文档类型 lang=&amp;quot;en&amp;quot; - 语言,可改为中国中文 &amp;ldquo;zh-CN&amp;rdquo; charset=&amp;quot;UTF-8&amp;quot; -文件的字符编码，UTF-8 支持所有语言 &amp;lt;title&amp;gt;&amp;lt;/title&amp;gt; - 网页标题  常用的章节标签  &amp;lt;h1&amp;gt;~&amp;lt;h6&amp;gt; - 标题 &amp;lt;section&amp;gt; - 章节 &amp;lt;article&amp;gt; - 文章 &amp;lt;p&amp;gt; - 段落 &amp;lt;header&amp;gt; - 头部 &amp;lt;footer&amp;gt; - 脚部 &amp;lt;main&amp;gt; - 主要内容 &amp;lt;aside&amp;gt; - 旁支内容 &amp;lt;div&amp;gt; - 划分  常用的全局属性 所有标签都有的属性</description>
     </item>
     
     <item>
@@ -26,7 +28,7 @@
       <pubDate>Tue, 14 Jan 2020 21:30:08 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <description>hhh</description>
     </item>
     
     <item>
